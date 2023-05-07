@@ -1,6 +1,8 @@
 
  <div align="center">
   <h1>Java Witnesses</h1>
+  <br>
+  <img src="cover.png"/>
 
   <h2>About the Game</h2>
 
