@@ -2,7 +2,7 @@
  <div align="center">
   <h1>Java Witnesses</h1>
   <br>
-  <img src="cover.png"/>
+  <a href="https://ibb.co/p4Fc7TZ"><img src="https://i.ibb.co/Dw2hJFk/cover.jpg" alt="cover" border="0"></a>
 
   <h2>About the Game</h2>
 
